@@ -1,0 +1,22 @@
+{
+  "name": "hexo-filter-mermaidjs",
+  "version": "1.0.0",
+  "description": "mermaidAPI filter for hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chang196700/hexo-filter-mermaidjs.git"
+  },
+  "author": "Chang Feng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chang196700/hexo-filter-mermaidjs/issues"
+  },
+  "homepage": "https://github.com/chang196700/hexo-filter-mermaidjs#readme",
+  "dependencies": {
+    "deep-assign": "^2.0.0"
+  }
+}
