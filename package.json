@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-mermaidjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mermaidjs filter for hexo",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,5 @@
     "url": "https://github.com/chang196700/hexo-filter-mermaidjs/issues"
   },
   "homepage": "https://github.com/chang196700/hexo-filter-mermaidjs#readme",
-  "dependencies": {
-    "deep-assign": "^2.0.0"
-  }
+  "dependencies": {}
 }

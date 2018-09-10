@@ -1,7 +1,6 @@
-var assign = require('deep-assign');
 var renderer = require('./lib/renderer');
 
-hexo.config.mermaid = assign({
+hexo.config.mermaid = Object.assign({
   mermaid: 'https://unpkg.com/mermaid@8.0.0-rc.8/dist/mermaid.js',
   css: '',
   options: {
