@@ -1,7 +1,7 @@
 var renderer = require('./lib/renderer');
 
 hexo.config.mermaid = Object.assign({
-  mermaid: 'https://unpkg.com/mermaid@8.0.0-rc.8/dist/mermaid.js',
+  mermaid: 'https://unpkg.com/mermaid@8.4.8-rc.8/dist/mermaid.js',
   css: '',
   options: {
     startOnLoad: false
