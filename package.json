@@ -16,5 +16,10 @@
     "url": "https://github.com/chang196700/hexo-filter-mermaidjs/issues"
   },
   "homepage": "https://github.com/chang196700/hexo-filter-mermaidjs#readme",
-  "dependencies": {}
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "mermaid": "^8.4.8",
+    "puppeteer": "^2.1.1",
+    "hexo-fs": "^2.0.0"
+  }
 }
