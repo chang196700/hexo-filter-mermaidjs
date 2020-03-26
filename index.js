@@ -8,4 +8,6 @@ hexo.config.mermaid = Object.assign({
   }
 }, hexo.config.mermaid);
 
+renderer.config = hexo.config;
+
 hexo.extend.filter.register('before_post_render', renderer.render, 9);
